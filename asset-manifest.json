@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1f771b5c.css",
+    "main.js": "/static/js/main.b757594e.js",
+    "static/media/palestine.jpg": "/static/media/palestine.c37ab3e2bbd1b94d39ba.jpg",
+    "static/media/animal.jpg": "/static/media/animal.b0c817761d4b8bbf1daa.jpg",
+    "static/media/book-2.jpg": "/static/media/book-2.8229e3b4d403ac8c7185.jpg",
+    "static/media/book-1.jpg": "/static/media/book-1.7233582226935e2f08dd.jpg",
+    "static/media/love.jpg": "/static/media/love.e386a12b2be503b97546.jpg",
+    "index.html": "/index.html",
+    "main.1f771b5c.css.map": "/static/css/main.1f771b5c.css.map",
+    "main.b757594e.js.map": "/static/js/main.b757594e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f771b5c.css",
+    "static/js/main.b757594e.js"
+  ]
+}
